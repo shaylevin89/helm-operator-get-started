@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      repository: gcr.io/polar-standard-322506/podinfo
+      repository: gcr.io/wide-ratio-188711/podinfo
       tag: dev-acoa9c2w
     replicaCount: 1
     hpa:
