@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gcr.io/wide-ratio-188711/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-lhl7ifrv
     replicaCount: 2
     hpa:
       enabled: true
