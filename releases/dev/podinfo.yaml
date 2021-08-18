@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gcr.io/wide-ratio-188711/podinfo
-      tag: dev-3vn81rhk
+      tag: dev-q6elqcut
     replicaCount: 1
     hpa:
       enabled: false
